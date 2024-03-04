@@ -1,0 +1,116 @@
+//  my own assignment 
+var Name2 = "Safdar Ali";
+console.log("Name : ".concat(Name2));
+var F_Name3 = "Sardar Ali";
+console.log("Father_Name : ".concat(F_Name3));
+var Class = 12;
+console.log("Class : ".concat(Class));
+Class = 13;
+console.log("Class : ".concat(Class));
+var College = "Islamia Govt Science College";
+console.log("College : ".concat(College));
+College = "D-J Science College";
+console.log("College : ".concat(College));
+var email_address = "sa5763085@gmail.com";
+console.log("Email Adress : ".concat(email_address));
+email_address = "aa6865674@gmail.com";
+console.log("Email Adress : ".concat(email_address));
+var Phone_no = +923442844068;
+console.log("Phone NO : ".concat(Phone_no));
+Phone_no = +923408621402;
+console.log("Phone NO : ".concat(Phone_no));
+// when i update my name in variable using let my name has update
+var Name11 = "Safdar";
+console.log("Name : ".concat(Name11));
+Name11 = "Sardar Safdar";
+console.log("Name : ".concat(Name11));
+Name11 = "Sardar Safdar Ali";
+console.log("Name : ".concat(Name11));
+Name11 = "Sardar Safdar Ali Khan";
+console.log("Name : ".concat(Name11));
+// father name updated list
+var Father_Name = "Sardar";
+console.log("Father Name : ".concat(Father_Name));
+Father_Name = "Sardar Ali";
+console.log("Father Name : ".concat(Father_Name));
+Father_Name = "Sardar Mawaz";
+console.log("Father Name : ".concat(Father_Name));
+Father_Name = "Sardar Mawaz Khan";
+console.log("Father Name : ".concat(Father_Name));
+// update class 
+var Class1 = 9;
+console.log("Class : ".concat(Class1));
+Class1 = 10;
+console.log("Class : ".concat(Class1));
+Class1 = 11;
+console.log("Class : ".concat(Class1));
+Class1 = 12;
+console.log("Class : ".concat(Class1));
+// updated college :
+var college1 = "Islamia science college";
+console.log("College : ".concat(college1));
+college1 = "Islamia science college Karachi";
+console.log("College : ".concat(college1));
+college1 = "Gov Islamia science college Karachi";
+console.log("College : ".concat(college1));
+college1 = "Government Islamia science college Karachi";
+console.log("College : ".concat(college1));
+//  Email update
+var email_address1 = "sa5763085@gmail.com";
+console.log("Email Adress : ".concat(email_address1));
+email_address1 = "aa6865674@gmail.com";
+console.log("Email Adress : ".concat(email_address1));
+email_address1 = "aa6865@gmail.com";
+console.log("Email Adress : ".concat(email_address1));
+email_address1 = "aa65674@gmail.com";
+console.log("Email Adress : ".concat(email_address1));
+// update phone no 
+var Phone_no1 = +923442844068;
+console.log("Phone NO : ".concat(Phone_no1));
+Phone_no1 = +923408621402;
+console.log("Phone NO : ".concat(Phone_no1));
+Phone_no1 = +923408621403;
+console.log("Phone NO : ".concat(Phone_no1));
+Phone_no1 = +923408621405;
+console.log("Phone NO : ".concat(Phone_no1));
+//  another programe 
+var Name112 = "Safadr Ali";
+Name112 = "Safdar ali";
+Name112 = "safdar Ali";
+Name112 = "SaFdar Ali";
+console.log("Name : ".concat(Name112));
+var Name111 = "Sardar Safdar Ali Khan";
+var F_Name111 = "Sardar Ali";
+var Age = 20;
+var Mann = ("Name : ".concat(Name111, " , FatherName : ").concat(F_Name111, " , age : ").concat(Age));
+console.log(Mann);
+// My computer basic information :
+var windows = "wlndow10 pro";
+console.log(windows);
+var laptop = "DELL";
+console.log(laptop);
+var ssd = 128;
+console.log(ssd);
+var generation = "4th generation";
+console.log(generation);
+var processor = "intel core i5";
+console.log(processor);
+var Ram = "8Gb";
+console.log(Ram);
+// Booleans :
+var ismarried = false;
+console.log(ismarried);
+var isstudent = true;
+console.log(isstudent);
+var isteacher = true;
+console.log(isteacher);
+var is25yearsold = false;
+console.log(is25yearsold);
+var isyourlaptop = true;
+console.log(isyourlaptop);
+var isyourchild = false;
+console.log(isyourchild);
+var isyourwife = false;
+console.log(isyourwife);
+var isyourcar = true;
+console.log(isyourcar);
